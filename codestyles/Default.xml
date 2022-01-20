@@ -1,0 +1,41 @@
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
+      </value>
+    </option>
+    <option name="JD_KEEP_EMPTY_RETURN" value="false" />
+  </JavaCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="DOWHILE_BRACE_FORCE" value="1" />
+    <option name="METHOD_ANNOTATION_WRAP" value="1" />
+    <option name="CLASS_ANNOTATION_WRAP" value="1" />
+    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <option name="SPACE_WITHIN_BRACES" value="false" />
+  </codeStyleSettings>
+</code_scheme>

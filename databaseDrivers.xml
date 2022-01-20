@@ -1,0 +1,18 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="openedge">
+      <artifact id="OpenEdge" name="OpenEdge" use="true" version="12.3" />
+    </driver>
+    <driver id="sqlserver.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
+    </driver>
+    <driver id="java.sql.Driver" name="Open Edge" driver-class="java.sql.Driver">
+      <library>
+        <url>file://$USER_HOME$/openedgeJDBC-11.0.jar</url>
+      </library>
+    </driver>
+  </component>
+</application>
