@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path" value="wsl://Ubuntu-20.04@/home/max/.nvm/versions/node/v12.22.9/bin/node" />
+        <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+com.andrey4623.rainbowcsv
+fr.gabrielcolson.prisma.prisma-intellij-plugin
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+some.awesome
