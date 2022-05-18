@@ -7,12 +7,13 @@
       <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
     </driver>
     <driver id="java.sql.Driver" name="Open Edge" driver-class="java.sql.Driver">
       <library>
         <url>file://$USER_HOME$/openedgeJDBC-11.0.jar</url>
       </library>
     </driver>
+    <driver id="9178cd25-3a13-4fed-a5e4-f06e8161103d" name="User Driver" driver-class="java.sql.Driver" />
   </component>
 </application>
